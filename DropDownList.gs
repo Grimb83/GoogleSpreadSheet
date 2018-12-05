@@ -1,3 +1,6 @@
+
+//1차 목록 선택시, 바로 옆 셀에 2차 목록이 표시됨.
+
 function onEdit(){
   
   var Lists = "시트명";
